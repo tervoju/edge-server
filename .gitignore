@@ -1,0 +1,11 @@
+app/node_modules/**
+node_modules/**
+.vscode
+dist
+build
+.idea
+logs/
+.eggs
+**/*.log
+Dockerfile.local
+pc-*
