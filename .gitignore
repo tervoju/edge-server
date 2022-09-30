@@ -7,5 +7,4 @@ build
 logs/
 .eggs
 **/*.log
-Dockerfile.local
 pc-*
